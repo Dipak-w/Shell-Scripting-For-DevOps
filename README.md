@@ -7,8 +7,6 @@ A Shell is a command-line interpreter that allows users to interact with the ope
 3. Environment Management – Allows users to set variables, configure settings, and manage processes.
 4. Job Control – Supports background and foreground process execution.
 
-
-
 # Intermediate Scripting Techniques
 •	Working with Files and Directories (ls, cp, mv, rm, mkdir, find)
 •	String Manipulation (sed, awk, cut, tr)
